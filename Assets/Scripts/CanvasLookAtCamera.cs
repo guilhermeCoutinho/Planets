@@ -10,13 +10,17 @@ public class CanvasLookAtCamera : MonoBehaviour {
     void Start() {
         Debug.Log("rodei ");
         planet = GameObject.FindGameObjectWithTag("Planet");
+        Debug.Log(planet.transform.position);
+
+        lookAtCamera();
     }
 
 
 	void OnEnable () {
-		lookAtCamera ();
+
 		BroadCastSystem.StartListening (BroadCastSystem.PLANETA_GIROU, lookAtCamera);
 	}
+
 	void OnDisable () {
 		BroadCastSystem.StopListening (BroadCastSystem.PLANETA_GIROU, lookAtCamera);
 	}
