@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: ca0921b7ba834a64ca74a0ccfb126e8a
+timeCreated: 1445533003
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BarrilComFrutas
+    100004: BArrilVazio
+    100006: BArrioVazio2
+    100008: Estante
+    100010: Estrutura
+    100012: Lona
+    100014: Plane
+    400000: //RootNode
+    400002: BarrilComFrutas
+    400004: BArrilVazio
+    400006: BArrioVazio2
+    400008: Estante
+    400010: Estrutura
+    400012: Lona
+    400014: Plane
+    2300000: //RootNode
+    2300002: BarrilComFrutas
+    2300004: BArrilVazio
+    2300006: BArrioVazio2
+    2300008: Estante
+    2300010: Estrutura
+    2300012: Lona
+    2300014: Plane
+    3300000: //RootNode
+    3300002: BarrilComFrutas
+    3300004: BArrilVazio
+    3300006: BArrioVazio2
+    3300008: Estante
+    3300010: Estrutura
+    3300012: Lona
+    3300014: Plane
+    4300000: Plane
+    4300002: BArrioVazio2
+    4300004: BArrilVazio
+    4300006: BarrilComFrutas
+    4300008: Lona
+    4300010: Estante
+    4300012: Estrutura
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

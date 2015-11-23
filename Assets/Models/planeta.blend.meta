@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: bbf6d6c9014b24a4f80ef38aa1067186
+timeCreated: 1445398438
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: Cylinder_001
+    100004: Cylinder_002
+    100006: Cylinder_003
+    100008: Cylinder_004
+    100010: Cylinder_005
+    100012: Grass
+    100014: Grass_001
+    100016: Grass_002
+    100018: Grass_003
+    100020: Grass_004
+    100022: Grass_005
+    100024: Grass_006
+    100026: Grass_007
+    100028: Grass_008
+    100030: Grass_009
+    100032: Grass_010
+    100034: Grass_011
+    100036: Grass_012
+    100038: Grass_013
+    100040: Grass_014
+    100042: Icosphere
+    100044: //RootNode
+    400000: Cylinder
+    400002: Cylinder_001
+    400004: Cylinder_002
+    400006: Cylinder_003
+    400008: Cylinder_004
+    400010: Cylinder_005
+    400012: Grass
+    400014: Grass_001
+    400016: Grass_002
+    400018: Grass_003
+    400020: Grass_004
+    400022: Grass_005
+    400024: Grass_006
+    400026: Grass_007
+    400028: Grass_008
+    400030: Grass_009
+    400032: Grass_010
+    400034: Grass_011
+    400036: Grass_012
+    400038: Grass_013
+    400040: Grass_014
+    400042: Icosphere
+    400044: //RootNode
+    2300000: Cylinder
+    2300002: Cylinder_001
+    2300004: Cylinder_002
+    2300006: Cylinder_003
+    2300008: Cylinder_004
+    2300010: Cylinder_005
+    2300012: Grass
+    2300014: Grass_001
+    2300016: Grass_002
+    2300018: Grass_003
+    2300020: Grass_004
+    2300022: Grass_005
+    2300024: Grass_006
+    2300026: Grass_007
+    2300028: Grass_008
+    2300030: Grass_009
+    2300032: Grass_010
+    2300034: Grass_011
+    2300036: Grass_012
+    2300038: Grass_013
+    2300040: Grass_014
+    2300042: Icosphere
+    3300000: Cylinder
+    3300002: Cylinder_001
+    3300004: Cylinder_002
+    3300006: Cylinder_003
+    3300008: Cylinder_004
+    3300010: Cylinder_005
+    3300012: Grass
+    3300014: Grass_001
+    3300016: Grass_002
+    3300018: Grass_003
+    3300020: Grass_004
+    3300022: Grass_005
+    3300024: Grass_006
+    3300026: Grass_007
+    3300028: Grass_008
+    3300030: Grass_009
+    3300032: Grass_010
+    3300034: Grass_011
+    3300036: Grass_012
+    3300038: Grass_013
+    3300040: Grass_014
+    3300042: Icosphere
+    4300000: Grass_014
+    4300002: Grass_013
+    4300004: Grass_012
+    4300006: Grass_011
+    4300008: Grass_010
+    4300010: Grass_009
+    4300012: Grass_008
+    4300014: Grass_007
+    4300016: Grass_006
+    4300018: Grass_005
+    4300020: Grass_004
+    4300022: Grass_003
+    4300024: Grass_002
+    4300026: Grass_001
+    4300028: Grass
+    4300030: Cylinder_005
+    4300032: Cylinder_004
+    4300034: Cylinder_003
+    4300036: Cylinder_002
+    4300038: Cylinder_001
+    4300040: Cylinder
+    4300042: Icosphere
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
